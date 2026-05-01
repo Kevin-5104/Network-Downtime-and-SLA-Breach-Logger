@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Google DNS",
+        "ip": "8.8.8.8",
+        "location": "Cloud"
+    },
+    {
+        "name": "Cloudflare DNS",
+        "ip": "1.1.1.1",
+        "location": "Cloud"
+    },
+    {
+        "name": "Localhost",
+        "ip": "127.0.0.1",
+        "location": "My Machine"
+    }
+]
